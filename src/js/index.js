@@ -110,7 +110,7 @@ const animate = ({viewportWidth, viewportHeight, tick}) => {
    * Clear context
    */
   regl.clear({
-    color: [0, 0, 0, 0],
+    color: [0.93, 0.94, 0.96, 0],
     depth: 1,
   })
 
